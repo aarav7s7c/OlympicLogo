@@ -1,0 +1,13 @@
+#myCanvas
+{
+	border-width: 20px;
+	background-color: whitesmoke;
+	border-style: double;
+    border-color: plum;
+}
+
+h1
+{
+	color: wheat; 
+	font-size: 40px;
+}
